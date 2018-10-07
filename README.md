@@ -1,4 +1,4 @@
-# machine_learnging_centos
+# machine_learning_centos
 Configure environment for machine learning(关于如何在Centos中配置机器学习环境，中文说明在文档后半部分)
 # English Part
 # Require dependencies
